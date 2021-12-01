@@ -1,2 +1,4 @@
 # AOC-2021-Solutions
-Solutions for AOC 2021
+Solutions for Advent Of Code 2021
+
+Link here: https://adventofcode.com/2021
